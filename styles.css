@@ -7,7 +7,7 @@
 img{
 	width:700px;
 	height:400px;
-	object-fit:cover:
+     object-fit:cover;
 }
 button{
 	background-color:red;
